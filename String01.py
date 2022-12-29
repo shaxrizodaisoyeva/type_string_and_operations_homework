@@ -5,5 +5,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return len("ehrt45kj")
+    return "ehrt45kj"
 print(main())
