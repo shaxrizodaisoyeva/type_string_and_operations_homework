@@ -8,7 +8,6 @@ def main(first,last):
         str: return answer.
     """
     x = str(last+","+first)
-    str(last+","+first) == str(last+","+" "+first)
     return x 
 last = "Isoeva"
 first = "Shakhrizoda"
