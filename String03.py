@@ -6,4 +6,5 @@ def main():
     Returns:
         str: return answer.
     """
-    return "sssss"
+    sssss== "aaaaa"
+    return sssss
