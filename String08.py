@@ -7,7 +7,7 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    x = str(last+","+first)
+    x = str(last)+","+str(first)
     return x 
 last = "Isoeva"
 first = "Shakhrizoda"
