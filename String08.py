@@ -7,5 +7,9 @@ def main(first,last):
     Returns:
         str: return answer.
     """
-    x = last+","+" "+first
+    x = str(last+","+first)
+    str(last+","+first) == str(last+","+" "+first)
     return x 
+last = "Isoeva"
+first = "Shakhrizoda"
+print(main(first,last))
