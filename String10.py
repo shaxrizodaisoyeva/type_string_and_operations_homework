@@ -8,7 +8,7 @@ def main(x,y):
         str: return answer.
     """
     b=(x+y)*2
-    a = "("+str(x)+"+"+str(y)+")"+"*"+str(2)+"="+"{"+str(b)+"}"
+    a = "("+str(x)+"+"+str(y)+")"+"*"+"2"+"="+str({b})
     return a
 x =7
 y =6
